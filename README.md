@@ -1,44 +1,34 @@
-# BackToAlpha PC Client
+# BackToAlpha Client
 
 ## Русский
 
-BackToAlpha PC Client — это аккуратно доработанный клиент Minecraft PE 0.8.1 alpha для Windows.
+BackToAlpha Client это улучшенная сборка Minecraft PE 0.8.1 alpha для Windows и Android.
 
-Цель сборки простая: сохранить ощущение старой MCPE 0.8.1, но сделать игру удобнее на ПК и на современных устройствах. Без лишнего мусора, без тяжёлых визуальных модов и без попытки превратить 0.8.1 во что-то другое.
+Проект сделан для тех, кому нравится старая атмосфера MCPE 0.8.1, но хочется играть чуть комфортнее. Клиент аккуратно улучшает повседневное ощущение от игры, делает визуальные аспекты приятнее и при этом не ломает ванильный дух версии 0.8.1.
 
-В этой версии:
+Это не попытка превратить старую версию в новую. Идея наоборот в том, чтобы сохранить её характер, темп и узнаваемость, просто убрав часть неудобств, которые особенно заметны сегодня.
 
-- сборка для Windows;
-- поддержка геймпада;
-- удобнее управление в инвентаре, сундуках, меню и настройках;
-- исправления для сетевой игры и езды на свиньях;
-- русский/английский интерфейс;
-- сохранён ванильный стиль 0.8.1.
+## Сборки
 
-Файл клиента лежит в `builds/windows/`.
+Файлы лежат в папке `build`:
 
-Версия:
-
-`BackToAlphaPCClient_ver0.1.5.zip`
+- `build/Windows Client`
+- `build/ModernAndroid+Armv8 Client`
+- `build/Android2.3+Armv6-Armv7 Client`
 
 ## English
 
-BackToAlpha PC Client is a carefully improved Minecraft PE 0.8.1 alpha client for Windows.
+BackToAlpha Client is an improved Minecraft PE 0.8.1 alpha build for Windows and Android.
 
-The goal is simple: keep the old MCPE 0.8.1 feel, but make it more comfortable to play on PC and modern setups. No heavy visual mods, no random clutter, and no attempt to turn 0.8.1 into a different game.
+The project is made for people who enjoy the old MCPE 0.8.1 atmosphere, but want the game to feel a little more comfortable today. The client carefully improves the everyday feel of the game, makes the visual side nicer, and still keeps the vanilla spirit of version 0.8.1.
 
-This version includes:
+It is not trying to turn the old version into a new one. The point is the opposite: keep its character, pace and familiar feeling, while smoothing out some of the rough edges that are more noticeable now.
 
-- Windows build;
-- gamepad support;
-- better navigation in inventory, chests, menus and options;
-- multiplayer fixes, including controllable pig riding support;
-- Russian/English interface;
-- the original 0.8.1 visual style.
+## Builds
 
-The client archive is in `builds/windows/`.
+Files are stored in the `build` folder:
 
-Version:
-
-`BackToAlphaPCClient_ver0.1.5.zip`
+- `build/Windows Client`
+- `build/ModernAndroid+Armv8 Client`
+- `build/Android2.3+Armv6-Armv7 Client`
 
