@@ -10,11 +10,11 @@ BackToAlpha Client это улучшенная сборка Minecraft PE 0.8.1 a
 
 ## Сборки
 
-Файлы лежат в папке `build`:
+Скачать:
 
-- `build/Windows Client`
-- `build/ModernAndroid+Armv8 Client`
-- `build/Android2.3+Armv6-Armv7 Client`
+- [Клиент для ретро-Android 2.3+ ARMv6/ARMv7](https://github.com/sssimon1041/BackToAlpha-PC-Client-Mcpe-0.8.1-alpha-Vanilla-Improved-/raw/main/build/Android2.3%2BArmv6-Armv7%20Client/BackToAlphaAndroidArmv6.apk)
+- [Клиент для современных Android 12+ ARM64](https://github.com/sssimon1041/BackToAlpha-PC-Client-Mcpe-0.8.1-alpha-Vanilla-Improved-/raw/main/build/ModernAndroid%2BArmv8%20Client/BackToAlphaAndroidModern-arm64.apk)
+- [Клиент для Windows](https://github.com/sssimon1041/BackToAlpha-PC-Client-Mcpe-0.8.1-alpha-Vanilla-Improved-/raw/main/build/Windows%20Client/BackToAlphaPCClient_ver0.1.5.zip)
 
 ## English
 
@@ -26,9 +26,9 @@ It is not trying to turn the old version into a new one. The point is the opposi
 
 ## Builds
 
-Files are stored in the `build` folder:
+Download:
 
-- `build/Windows Client`
-- `build/ModernAndroid+Armv8 Client`
-- `build/Android2.3+Armv6-Armv7 Client`
+- [Retro Android 2.3+ ARMv6/ARMv7 client](https://github.com/sssimon1041/BackToAlpha-PC-Client-Mcpe-0.8.1-alpha-Vanilla-Improved-/raw/main/build/Android2.3%2BArmv6-Armv7%20Client/BackToAlphaAndroidArmv6.apk)
+- [Modern Android 12+ ARM64 client](https://github.com/sssimon1041/BackToAlpha-PC-Client-Mcpe-0.8.1-alpha-Vanilla-Improved-/raw/main/build/ModernAndroid%2BArmv8%20Client/BackToAlphaAndroidModern-arm64.apk)
+- [Windows client](https://github.com/sssimon1041/BackToAlpha-PC-Client-Mcpe-0.8.1-alpha-Vanilla-Improved-/raw/main/build/Windows%20Client/BackToAlphaPCClient_ver0.1.5.zip)
 
